@@ -1,0 +1,22 @@
+Data of College 1
+            methods  heard  knows  college
+0     eavesdropping     40      3        1
+1      smshijacking     29      2        1
+2  locationtracking     43      5        1
+3         dosattack     19      1        1
+4       crackingenc     11      0        1
+Data of College 2
+            methods  heard  knows  college
+0     eavesdropping     41      6        2
+1      smshijacking     34      3        2
+2  locationtracking     40      2        2
+3         dosattack     17      0        2
+4       crackingenc     16      0        2
+
+Calculated Parameters for College 1
+[0.6735     0.66746552 0.71477907 0.65113158 0.5985    ]
+Calculated Parameters for College 2
+[0.74484146 0.68673529 0.6485     0.5985     0.5985    ]
+
+Rating of College 1: 3.97
+Rating of College 2: 4.03
